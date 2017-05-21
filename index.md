@@ -1,1 +1,2 @@
-##Lista de canales copia el link no descargues la lista
+## Lista de canales 
+copia el link no descargues la lista
