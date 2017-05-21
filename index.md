@@ -1,2 +1,3 @@
 ## Lista de canales 
-copia el link no descargues la lista
+Copia el link no descargues la lista 
+```hola.com/list.m3u
